@@ -6,7 +6,7 @@ Welcome to Analysis of Algorithms!. Please modify this README file with the foll
 Failure to do that will result in your repository being deleted, and you will be dropped from
 this class during the first week of instruction due to student's inactivity***
 
-Edel Jhon Cenario, 921121224
+Edel Jhon Cenario
 Email:  ecenario@mail.sfsu.edu
 
 ***IMPORTANT: Every time you finish an algorithm challenge you must set the corresponding
@@ -18,13 +18,13 @@ column for that assignment is set to not completed, I will assume that you haven
 
 | Assignment       |     C/NC      |
 | ---------------- | ------------- |
-| AC1              | not completed |
+| AC1              | completed     |
 | AC2              | completed     |
 | AC3              | completed     |
 | AC4              | completed     |
 | AC5              | completed     |
 | AC6 (EC)         | completed     |
-| Extracredit      | not completed |
+| Extracredit      | completed     |
 
 
 ## Please read carefully all the assignments guidelines described in this README file. Failure to follow them, may affect negatively your grade.
