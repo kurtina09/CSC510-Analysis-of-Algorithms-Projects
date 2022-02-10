@@ -6,7 +6,6 @@ Welcome to Analysis of Algorithms!. Please modify this README file with the foll
 Failure to do that will result in your repository being deleted, and you will be dropped from
 this class during the first week of instruction due to student's inactivity***
 
-Edel Jhon Cenario
 Email:  ecenario@mail.sfsu.edu
 
 ***IMPORTANT: Every time you finish an algorithm challenge you must set the corresponding
